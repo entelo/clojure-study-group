@@ -11,4 +11,9 @@ The Entelo Clojure Club exists for a myriad of goals, including but not limited 
 * Allowing for clojure to be a viable option should we end up with other compelling use cases for it
 
 ## Q1 Goals
-* TBD
+* Emacs Tutorial
+* Ramp up on syntax/conventions
+
+## Q2 Goals
+* Ticket up small achievable devops helper services
+* Pair up on tasks
